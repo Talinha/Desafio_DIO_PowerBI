@@ -12,4 +12,4 @@ Este projeto realiza análises em Power BI para consluão do Desafio Bootcamp Py
 
 ![image](https://github.com/Talinha/Desafio_DIO_PowerBI/assets/121242992/95965673-ed98-48b2-9bdd-2c6c609f0947)
 
-![PowerBI]https://app.powerbi.com/groups/me/reports/1730a7bd-7eff-4eec-8671-3d5fc443ade3/db7c74835b04850cad14?experience=power-bi&bookmarkGuid=a76f713767676c0b2268
+[Power BI](https://app.powerbi.com/groups/me/reports/1730a7bd-7eff-4eec-8671-3d5fc443ade3/db7c74835b04850cad14?experience=power-bi&bookmarkGuid=a76f713767676c0b2268).
