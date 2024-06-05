@@ -4,4 +4,8 @@ Status: Finalizado 🏆
 
 ## Contexto
 
-Este projeto realiza análises para consluão do Desafio Bootcamp Pyhton DataAnalytics na DIO. 
+Este projeto realiza análises em Power BI para consluão do Desafio Bootcamp Pyhton DataAnalytics na DIO. 
+
+
+
+![image](https://github.com/Talinha/Desafio_DIO_PowerBI/assets/121242992/cca2db10-6cd8-4b72-9611-7541aa0d46a1)
